@@ -19,10 +19,7 @@ Fonctionnalités
 
 ⚙ Installation
 
-    Téléchargez le projet :
-    sh
-
-git clone https://github.com/dan-codeScript/Mavericks-WebShell.git
+    git clone https://github.com/dan-codeScript/Mavericks-WebShell.git
 
 Configurez le mot de passe :
 Modifiez AUTH_PASSWORD dans mavericks_webshell_pro.php
