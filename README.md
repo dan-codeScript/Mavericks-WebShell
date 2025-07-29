@@ -22,7 +22,7 @@ Fonctionnalités
     Téléchargez le projet :
     sh
 
-téléchareger le code
+git clone https://github.com/dan-codeScript/Mavericks-WebShell.git
 
 Configurez le mot de passe :
 Modifiez AUTH_PASSWORD dans mavericks_webshell_pro.php
@@ -39,8 +39,7 @@ Modifiez AUTH_PASSWORD dans mavericks_webshell_pro.php
 
         Connectez-vous avec le mot de passe défini.
 
-![MavWbshl](https://github.com/user-attachments/assets/49c6c95e-df82-4408-b2db-863086e83391)
-
+![cink](https://github.com/user-attachments/assets/40d69c8a-969b-4306-87ae-429e23a9debd)
   
     Gestion des fichiers :
 
@@ -49,7 +48,3 @@ Modifiez AUTH_PASSWORD dans mavericks_webshell_pro.php
         📤 Uploader : Utilisez le formulaire d'upload.
 
         🗑 Supprimer : Entrez le nom du fichier et validez.
-
-        ![cink](https://github.com/user-attachments/assets/40d69c8a-969b-4306-87ae-429e23a9debd)
-
-
